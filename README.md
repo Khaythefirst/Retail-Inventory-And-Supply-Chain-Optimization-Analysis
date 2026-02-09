@@ -27,7 +27,7 @@ You can see the project report [here]().
 
 ### Weather Impact Analysis:
 
-- Weather variability significantly did not necessaryly impacts demand and must be included in inventory planning
+- Weather variability significantly did not necessarily impacts demand and must be included in inventory planning
 - Since sales don't drop during "Snowy" or "Rainy" conditions, the supply chain must remain fully operational regardless of the weather.
 - Unlike many retail datasets where rain or snow kills sales, this store is "weather-resilient."
 
