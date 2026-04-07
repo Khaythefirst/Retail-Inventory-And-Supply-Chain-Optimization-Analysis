@@ -21,7 +21,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inv
 
 *P.S:* After data cleaning, validation and analysis, three(3) more columns were added to the data. Stock_Gap, Stockout_Risks and Price_Difference were the new columns added.
 
-You can see the project report [here]().
+You can see the data cleaning process [here]().
 
 ## Business Impact
 
