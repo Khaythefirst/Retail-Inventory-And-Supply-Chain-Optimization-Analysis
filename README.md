@@ -13,7 +13,7 @@
 | | |
 |---|---|
 | Full Project (Google Sheets) | [View Here](https://docs.google.com/spreadsheets/d/1v7W445TIZtJWWsrbyfztTBqpNGzUeaUdcH9KupQbxbI/edit?usp=sharing) |
-| Data Cleaning Process | [Data Cleaning Process.docx](https://github.com/Khaythefirst/Retail-Inventory-And-Supply-Chain-Optimization-Analysis/blob/main/Data%20Cleaning%20Process.docx) |
+| Data Cleaning Process | [Data Cleaning Process.docx](https://github.com/kpepime/Retail-Inventory-And-Supply-Chain-Optimization-Analysis/blob/main/Data%20Cleaning%20Process.docx) |
 
 ---
 
@@ -66,7 +66,7 @@ Four business impact areas are investigated:
 
 ## Data Cleaning Summary
 
-Full cleaning documentation: [Data Cleaning Process.docx](https://github.com/Khaythefirst/Retail-Inventory-And-Supply-Chain-Optimization-Analysis/blob/main/Data%20Cleaning%20Process.docx)
+Full cleaning documentation: [Data Cleaning Process.docx](https://github.com/kpepime/Retail-Inventory-And-Supply-Chain-Optimization-Analysis/blob/main/Data%20Cleaning%20Process.docx)
 
 - Checked all 73,100 rows for duplicates, none found
 - Checked all columns for null or blank values, none found
